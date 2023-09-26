@@ -1,7 +1,7 @@
 const FuncaoFragmento = ({ appFuncao }) => {
   return (
     <>
-    <button onClick={appFuncao}>Efeito da Função</button>
+      <button onClick={appFuncao}>Efeito da Função</button>
     </>
   )
 }
